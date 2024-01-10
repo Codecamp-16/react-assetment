@@ -79,6 +79,10 @@ async function getMe() {
 
 # Instruction
 
+- Section 1 (Part1-Part2) : ทำ App ได้
+- Section 2 (Part3 : Bonus) : ทำให้ App ทำงานได้ดี
+- Section 4 (Part4 : CleanCode) : ทำให้คนอื่นอยากทำงานด้วย (แม้กระทั่งตัวเองในอนาคต)
+
 ## Part-1 : Project Setup and UI (50pts)
 
 ### 1A : Project Setup (10pts)
@@ -140,7 +144,7 @@ async function getMe() {
 - [ ] Deploy to Vercel or Netlify (10pts)
 - paste your link here
 
-## Part-4 : Become Extraordinary Developer (50pts)
+## Part-4 : Become Extraordinary Developer (100pts)
 
 ### Clean Code
 
@@ -154,3 +158,11 @@ async function getMe() {
 - [ ] Implement React Design Pattern and Avoid Anti Pattern
 - [ ] Use Async Await instead of Promise then catch
 - [ ] Well-organized Folder Structure
+- [ ] Well-organized Git Commit Message
+
+# Can and Can't
+
+- Open Slide , Docs , Stackoverflow , Google
+- Don't AI , Don't Copy , Don't Cheat
+- Don't ask your friend, Don't ask your teacher
+- Don't use other code from other project (COPY PASTE)
